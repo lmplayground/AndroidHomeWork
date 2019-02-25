@@ -15,6 +15,8 @@ import kotlinx.android.synthetic.main.activity_download.*
 
 class DownloadActivity : AppCompatActivity() {
 
+
+
     lateinit var playBtn :ImageButton
     lateinit var  downloadBtn :ImageButton
     lateinit var progressBar:ProgressBar
